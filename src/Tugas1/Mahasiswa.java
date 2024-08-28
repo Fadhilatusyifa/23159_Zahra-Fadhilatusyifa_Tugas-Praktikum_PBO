@@ -24,7 +24,7 @@ public class Mahasiswa {
     }
     
     void nyontek(){
-        System.out.println("Mahasiswa bernama " + nama + " dari jurusan " + jurusan + " semester " + semester +" ketahuan mencontek saat ujian mata kuliah PBO.\n");
+        System.out.println("Mahasiswa bernama " + nama + " dari jurusan " + jurusan + " semester " + semester + " ketahuan mencontek saat ujian mata kuliah PBO.\n");
     }
     
     void modifikasi(){
