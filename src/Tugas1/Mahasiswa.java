@@ -28,7 +28,7 @@ public class Mahasiswa {
     }
     
     void modifikasi(){
-        System.out.println(nama + " dari jurusan " + jurusan + " sedang melakukan modifikasi pada desain website nya agar lebih menarik.\n");
+        System.out.println(nama + " dari jurusan " + jurusan + " semester " + semester + " sedang melakukan modifikasi pada desain website nya agar lebih menarik.\n");
     }
             
     
