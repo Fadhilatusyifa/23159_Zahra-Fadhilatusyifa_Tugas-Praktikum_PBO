@@ -22,7 +22,7 @@ public class PenghitungNilaiMhs extends javax.swing.JFrame {
         viewDataTabel();    // menampilkan data mahasiswa ke dalam tabel
     }
     
-    public final void viewDataTabel(){
+    public void viewDataTabel(){
         // mendefinisikan nama kolom untuk tabel
         String[] namaKolom = {"NIM", "Nama", "Alamat", "Mata Kuliah", "Nilai AKhir"};
         // membuat array objek untuk menyimpan data mahasiswa, dengan ukuran 100
